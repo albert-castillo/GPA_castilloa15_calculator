@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GPA_castilloa15_calculator</string>
+    <string name="calc">Compute GPA</string>
+    <string name="request">Please enter your 5 grades below:</string>
+    <string name="gpa1">Enter your first grade:</string>
+    <string name="gpa2">Enter your second grade:</string>
+    <string name="gpa3">Enter your third grade:</string>
+    <string name="gpa4">Enter your fourth grade:</string>
+    <string name="gpa5">Enter your fifth grade:</string>
+    <string name="resp">Your GPA is:</string>
+
+</resources>
